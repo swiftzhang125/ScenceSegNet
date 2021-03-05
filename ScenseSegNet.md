@@ -2,14 +2,13 @@
 
 ## Structure <br>
 input <br>
- > data
- >> data
- >> train
- >> validation
- >> test
- <br>
- > model
- <br>
+ > data <br>
+ >> data <br>
+ >> train <br>
+ >> validation <br>
+ >> test <br>
+ input<br>
+  > model<br>
 predict<br>
 src<br>
  <br>
