@@ -1,7 +1,7 @@
 # ScenceSegNet
 
 ## Structure <br>
- ../input/data/data/*pkl <br>
+ > ../input/data/data/*pkl <br>
  ../input/data/train <br>
  ../input/data/validation <br>
  ../input/data/test <br>
