@@ -7,11 +7,11 @@ input <br>
  >> train <br>
  >> validation <br>
  >> test <br>
+
 input<br>
  > model<br>
 predict<br>
 src<br>
- <br>
 
 
 ## Steps <br>
@@ -30,9 +30,9 @@ src<br>
  ### Step2:<br>
   run create_train_val_test.py<br>
   the data will be split in <br>
-    *../input/data/train/*pkl<br>
-    *../input/data/validation/*pkl<br>
-    *../input/data/test/*pkl<br>
+    * ../input/data/train/*pkl<br>
+    * ../input/data/validation/*pkl<br>
+    * ../input/data/test/*pkl<br>
  <br>
  ### Step3:<br>
    run sh run.sh<br>
