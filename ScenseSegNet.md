@@ -1,6 +1,6 @@
 # ScenceSegNet
 
-Structure <br>
+##Structure <br>
  ../input/data/data/*pkl <br>
  ../input/data/train <br>
  ../input/data/validation <br>
@@ -23,18 +23,19 @@ Structure <br>
     train.py<br>
   in ../src<br>
 <br> 
- Step2:<br>
+##Steps
+ ###Step2:<br>
   run create_train_val_test.py<br>
   the data will be split in <br>
     ../input/data/train/*pkl<br>
     ../input/data/validation/*pkl<br>
     ../input/data/test/*pkl<br>
  <br>
-  Step3:<br>
+  ###Step3:<br>
    run sh run.sh<br>
    the training history and model wil be in<br>
     ../input/model<br>
  <br>   
-  Step4:<br>
+  ###Step4:<br>
     run predict.py<br>
     
