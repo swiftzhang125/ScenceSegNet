@@ -7,8 +7,8 @@ input <br>
  >> train <br>
  >> validation <br>
  >> test <br>
- input<br>
-  > model<br>
+input<br>
+ > model<br>
 predict<br>
 src<br>
  <br>
