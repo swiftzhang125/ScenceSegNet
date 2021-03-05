@@ -1,15 +1,17 @@
 # ScenceSegNet
 
 ## Structure <br>
- > ../input/data/data/*pkl <br>
- ../input/data/train <br>
- ../input/data/validation <br>
- ../input/data/test <br>
+input <br>
+ > data
+ >> data
+ >> train
+ >> validation
+ >> test
  <br>
- ../input/model<br>
+ > model
  <br>
- ../predict<br>
- ../src<br>
+predict<br>
+src<br>
  <br>
  ## Steps <br>
   ### Step1:<br> 
