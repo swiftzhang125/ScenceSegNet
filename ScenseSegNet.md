@@ -1,6 +1,6 @@
 # ScenceSegNet
 
-Structure /n
+Structure /<br>
  ../input/data/data/*pkl
  ../input/data/train
  ../input/data/validation
